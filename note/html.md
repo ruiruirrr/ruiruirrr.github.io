@@ -280,16 +280,3 @@ href: 必填，表示要跳转到哪个页面 target： 表示窗口在哪里打
 </body>
 </html>
 ```
-
-
-## 9.按钮和多选框
-
-```html
-<!--  多选框 -->
-    <p>
-        <input type="checkbox" value="sleep" name="hobby">睡觉
-        <input type="checkbox" value="game" name="hobby" checked>打游戏
-        <input type="checkbox" value="code" name="hobby">打球
-        <input type="checkbox" value="cook" name="hobby">吃饭
-    </p>
-```
